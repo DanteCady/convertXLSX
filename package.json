@@ -1,0 +1,22 @@
+{
+  "name": "xlstocsv",
+  "version": "1.0.0",
+  "description": "Convert XLS and XLSX to CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanteCady/convertXLSX.git"
+  },
+  "author": "Dante Cady",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanteCady/convertXLSX/issues"
+  },
+  "homepage": "https://github.com/DanteCady/convertXLSX#readme",
+  "dependencies": {
+    "xlsx-csv-rust": "^1.3.0"
+  }
+}
